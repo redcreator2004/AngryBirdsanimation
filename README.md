@@ -1,2 +1,2 @@
-# AngryBirdsanimation
-made children classes under the parent class(BaseClass)
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
